@@ -14,8 +14,21 @@ Hello there! I'm Dharmadhaashan, a passionate **B.Tech Computer Science** studen
 ---
 
 ## 🏆 Hackathon & Ideathon Achievements:
-- 🏅 **Winner:** Praghigyan Ideathon and Tantrotsav Best Engineer Ideathon.
-- 🎖️ **Finalist:** Appian AI Challenge at Shaastra 2024 (IIT Madras) and Hyphen Ideathon (GDSC Shirpur).
+
+- 🏅 **Tantrotsav’24 Best Engineer Competition – 2nd Place**
+  Secured **2nd place** in the flagship technical competition, competing against **30+ teams**.
+
+- 🏅 **Praghigyan Biodeathon – 2nd Place**
+  Achieved **2nd place among 30+ teams** for presenting an innovative biotechnology solution.
+
+- 🏅 **Tantrotsav’25 Number Nexus – 2nd Place**
+  Won **2nd place** in the national-level mathematics competition.
+
+- 🏅 **Shaastra 2024 – Appian AI Challenge Finalist (IIT Madras)**
+  Selected as a **Grand Finale finalist** in the AI challenge conducted at **IIT Madras**.
+
+- 🏅 **Hyphen Ideathon Finalist – GDSC MPSTME Shirpur**
+  Shortlisted among the **top teams** in the ideathon organized by **Google Developer Student Clubs**.
 
 ---
 
