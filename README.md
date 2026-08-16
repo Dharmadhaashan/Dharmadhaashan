@@ -43,7 +43,7 @@ Hello there! I'm Dharmadhaashan, a passionate **B.Tech Computer Science** studen
 ---
 
 ## 🌟 Skills and Interests:
-- **Languages & Tools:** Python, JavaScript, C, HTML, CSS, SQL, Flask, OpenCV, Arduino.
+- **Languages & Tools:** C++, Python, JavaScript, C, HTML, CSS, SQL, Flask, OpenCV, Arduino.
 - **Interests:** AI/ML, software development, hackathons, and innovative idea development.
 - **Leadership:** Experienced team leader with a knack for motivating teams and achieving goals.
 -  ![LeetCode Stats](https://leetcard.jacoblin.cool/dharmadhaashan?theme=unicorn&font=Exo%202)
